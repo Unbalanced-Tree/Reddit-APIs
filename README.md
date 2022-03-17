@@ -1,1 +1,1 @@
-# Reddit-APIs
+# APIs for Reddit web scraping
